@@ -78,3 +78,6 @@ REST API built on sentimentAnalysis.json: http://localhost:8000/filter/v1/applyf
 
 	2. Using POSTMAN, raise a GET request to:
 		a. Default: http://localhost:8000/filter/v1/applyfilter/
+		
+
+REST API above can be used to filter reviews by colour, rating, sentiment, is_verified_purchase and sort by date ('asc', 'desc')
