@@ -3,17 +3,6 @@
 #This Assignment targets at analyzing sentiments for a given Amazon product. 
 
 
-####################################################################################
-
-Skip to Step-4 to Run code
-
-
-####################################################################################
-
-
-
-
-
 #Step-1: Scraping Amazon Reviews using AmazonReviewScraper.ipynb file
 	
 	1. From product link page, identify and navigate to "All Reviews" link
