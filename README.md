@@ -59,14 +59,13 @@ Used Libraries: Django 2.1.7
 REST API built on sentimentAnalysis.json: http://localhost:8000/filter/v1/applyfilter/
 
 	1. If all requirements are fulfilled as per ecom_products/requirements.txt,
-	   Run runserver.py
+	   Run > python manage.py runserver
 	   Wait till you see following message:
 		Django version 2.1.7, using settings 'ecom_products.settings'
 		Starting development server at http://127.0.0.1:8000/
 		Quit the server with CONTROL-C
 
-	2. Using POSTMAN, raise a GET request to:
-		a. Default: http://localhost:8000/filter/v1/applyfilter/
+	2. Using POSTMAN, raise a GET request to http://localhost:8000/filter/v1/applyfilter/
 		
 
 REST API above can be used to filter reviews by colour, rating, sentiment, is_verified_purchase and sort by date ('asc', 'desc')
