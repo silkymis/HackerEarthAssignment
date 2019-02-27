@@ -1,4 +1,4 @@
-# HackerEarthAssignment
+# Sentiment Analysis of Amazon Reviews
 
 #This Assignment targets at analyzing sentiments for a given Amazon product. 
 
